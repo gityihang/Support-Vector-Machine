@@ -20,3 +20,8 @@ pip install Scikit-learn matplotlib
 **libsvm**
 
 ![展示图片](image/libsvm.png)
+
+
+
+
+$\color{yellow}{by yihang}$
